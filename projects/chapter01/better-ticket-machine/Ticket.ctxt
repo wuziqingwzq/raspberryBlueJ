@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ticket
+comment0.text=\r\n\ \u5728\u8FD9\u91CC\u7ED9\u51FA\u5BF9\u7C7B\ Ticket\ \u7684\u63CF\u8FF0\u3002\r\n\ \u8F66\u7968\u7C7B\r\n\ @\u4F5C\u8005\ \u5434\u5B50\u6E05\r\n\ @\u7248\u672C\ 2018-02-05\ V0.10\r\n
+comment1.params=_price
+comment1.target=Ticket(int)
+comment1.text=\r\n\ \u7C7B\ Ticket\ \u7684\u5BF9\u8C61\u7684\u6784\u9020\u51FD\u6570\r\n\ \u8BBE\u7F6E\u7968\u4EF7\r\n
+comment2.params=
+comment2.target=int\ getPrice()
+comment3.params=_price
+comment3.target=void\ setPrice(int)
+comment4.params=
+comment4.target=void\ printTicket()
+numComments=5
